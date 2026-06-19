@@ -1,0 +1,24 @@
+# Dataset
+dataset/
+
+# Processed Data
+data_processed/
+
+# Checkpoints and Models
+checkpoints/
+
+# Outputs and logs
+outputs/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo

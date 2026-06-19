@@ -1,0 +1,11 @@
+opencv-python
+pillow
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+albumentations
+editdistance
+tensorboard
+torchinfo
